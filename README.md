@@ -17,10 +17,6 @@ Nesse desafio, recriei uma aplicação, a partir de um layout, para treina
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/NLW-COPA.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
