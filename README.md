@@ -31,6 +31,9 @@ Introdução ao HTML e CSS.
 
 ![pro2](https://user-images.githubusercontent.com/94652702/200223758-f33f5235-a441-430c-857d-0fe7572310ba.png)
 
+## Você pode acessar a pagina atravês do link abaixo:
+https://explorer-stage-02-3-recriando-layout.vercel.app/
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
